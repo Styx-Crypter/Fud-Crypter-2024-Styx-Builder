@@ -10,7 +10,7 @@ Styx Crypter is an encryption tool used to hide malicious software and prevent d
 # Contact Me
 • https://www.styxcrypter.com/<br>
 • https://t.me/styxencode & https://t.me/styxnews & https://t.me/styxcommunity<br>
-• https://youtube.com/@styxcores
+• https://youtube.com/@styxencode
 
 <br>
 <br>
